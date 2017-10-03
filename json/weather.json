@@ -1,0 +1,126 @@
+[{
+  "coord": {
+    "lon": 8.55,
+    "lat": 47.37
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 20,
+    "pressure": 1017,
+    "humidity": 59,
+    "temp_min": 19,
+    "temp_max": 22
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.1,
+    "deg": 230
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1496998200,
+  "sys": {
+    "type": 1,
+    "id": 6016,
+    "message": 0.0033,
+    "country": "CH",
+    "sunrise": 1496978963,
+    "sunset": 1497036076
+  },
+  "id": 2657896,
+  "name": "Zurich",
+  "cod": 200
+},
+{
+   "coord": {
+    "lon": 8.55,
+    "lat": 47.37
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 10,
+    "pressure": 1022,
+    "humidity": 88,
+    "temp_min": 8,
+    "temp_max": 12
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.5,
+    "deg": 330
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1496299800,
+  "sys": {
+    "type": 1,
+    "id": 6016,
+    "message": 0.0026,
+    "country": "CH",
+    "sunrise": 1496287978,
+    "sunset": 1496344498
+  },
+  "id": 2657896,
+  "name": "Zurich",
+  "cod": 200
+},
+{
+  "coord": {
+    "lon": 8.55,
+    "lat": 47.37
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 25,
+    "pressure": 1018,
+    "humidity": 60,
+    "temp_min": 22,
+    "temp_max": 23
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.1,
+    "deg": 50
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1497441000,
+  "sys": {
+    "type": 1,
+    "id": 6016,
+    "message": 0.0029,
+    "country": "CH",
+    "sunrise": 1497410912,
+    "sunset": 1497468245
+  },
+  "id": 2657896,
+  "name": "Zurich",
+  "cod": 200
+}]
